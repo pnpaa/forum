@@ -1,2 +1,2 @@
-# forum
-Forum app that's connected to the accounting system
+# PNPAA Forum
+The forum application that's connected to the accounting system
