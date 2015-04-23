@@ -1,0 +1,10 @@
+#tinymce {
+	font-family: Arial, sans-serif;
+	overflow-x: hidden;
+	color: #3b3b3b  !important;
+	
+}
+body#tinymce img {
+	max-width: 620px;
+	padding: 10px 0px;
+}
