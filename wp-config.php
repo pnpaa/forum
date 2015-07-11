@@ -22,10 +22,10 @@ define('DB_NAME', 'u411505508_forum');
 define('DB_USER', 'u411505508_forum');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'ofh7EB1lZQsua4224U');
+define('DB_PASSWORD', 'password');
 
 /** MySQL hostname */
-define('DB_HOST', 'mysql.hostinger.ph');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
